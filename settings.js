@@ -18,21 +18,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "YANUAR-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ YANUAROfcོ ×፝֟͜×" //nama kalian
+global.botname = "DestaBotz" //namabot kalian
+global.ownername= "DESTA STORE" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCPUE0yyKRCdv1EyaGQc2WzA" //bebas asal jan hapus
 global.github = "Beban" //bebas
 global.email = "ngga ada" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "+62895803444159" // nomor wa kalian
-global.ownernomerr = "+6282134705070" //nmr wa kalian
+global.ownernomer = "+6283128445295" // nomor wa kalian
+global.ownernomerr = "+6283891352528" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62895803444159","628985667300","6282134705070"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.owner = ["6283128445295","6283891352528","6283128445295"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© DestaBotz' //sticker wm ubah
+global.author = 'Di Buat Oleh DestaBotz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
